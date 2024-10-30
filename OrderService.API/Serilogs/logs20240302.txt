@@ -1,0 +1,54 @@
+2024-03-02 09:40:19.185 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-03-02 09:40:19.679 +03:30 [INF] Hangfire SQL objects installed.
+2024-03-02 09:40:21.494 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-03-02 09:40:21.496 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-03-02 09:40:21.498 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-03-02 09:40:21.958 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 successfully announced in 393.5285 ms
+2024-03-02 09:40:21.993 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-03-02 09:40:22.017 +03:30 [INF] 1 servers were removed due to timeout
+2024-03-02 09:40:22.547 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 all the dispatchers started
+2024-03-02 09:40:38.291 +03:30 [INF] it is a log befor error
+2024-03-02 09:43:55.371 +03:30 [INF] it is a log befor error
+2024-03-02 09:53:33.142 +03:30 [INF] it is a log befor error
+2024-03-02 10:09:54.450 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 10:09:54.456 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 10:17:01.318 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 10:17:01.321 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 15:30:10.064 +03:30 [INF] 1 servers were removed due to timeout
+2024-03-02 15:30:13.213 +03:30 [WRN] Server desktop-cq9frio:18920:65956ea5 was considered dead by other servers, restarting...
+2024-03-02 15:30:15.867 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 caught restart signal...
+2024-03-02 15:30:17.347 +03:30 [WRN] Server desktop-cq9frio:18920:65956ea5 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2024-03-02 15:30:19.023 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 successfully reported itself as stopped in 110.0161 ms
+2024-03-02 15:30:19.041 +03:30 [INF] Server desktop-cq9frio:18920:65956ea5 has been stopped in total 3091.5098 ms
+2024-03-02 15:30:19.217 +03:30 [INF] Server desktop-cq9frio:18920:b20b79e4 successfully announced in 172.1151 ms
+2024-03-02 15:30:22.019 +03:30 [INF] Server desktop-cq9frio:18920:b20b79e4 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-03-02 15:30:24.387 +03:30 [INF] Server desktop-cq9frio:18920:b20b79e4 all the dispatchers started
+2024-03-02 19:36:42.803 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-03-02 19:36:43.412 +03:30 [INF] Hangfire SQL objects installed.
+2024-03-02 19:36:44.857 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-03-02 19:36:44.859 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-03-02 19:36:44.861 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-03-02 19:36:47.323 +03:30 [INF] Server desktop-cq9frio:24880:a2553a6d successfully announced in 2047.4861 ms
+2024-03-02 19:36:47.398 +03:30 [INF] Server desktop-cq9frio:24880:a2553a6d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-03-02 19:36:47.812 +03:30 [INF] 1 servers were removed due to timeout
+2024-03-02 19:36:48.361 +03:30 [INF] Server desktop-cq9frio:24880:a2553a6d all the dispatchers started
+2024-03-02 19:38:38.600 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:02.521 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:07.281 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:07.322 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:07.507 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:07.529 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:10.825 +03:30 [INF] it is a log befor error
+2024-03-02 19:39:38.039 +03:30 [INF] it is a log befor error
+2024-03-02 19:40:07.344 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 19:40:07.349 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 19:40:24.770 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-03-02 19:40:24.773 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.

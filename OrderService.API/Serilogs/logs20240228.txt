@@ -1,0 +1,85 @@
+2024-02-28 10:09:01.922 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 10:09:02.302 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 10:09:03.462 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 10:09:03.464 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 10:09:03.466 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 10:09:04.041 +03:30 [INF] Server desktop-cq9frio:20616:f1d41743 successfully announced in 503.0734 ms
+2024-02-28 10:09:04.055 +03:30 [INF] Server desktop-cq9frio:20616:f1d41743 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 10:09:04.202 +03:30 [INF] 1 servers were removed due to timeout
+2024-02-28 10:09:04.572 +03:30 [INF] Server desktop-cq9frio:20616:f1d41743 all the dispatchers started
+2024-02-28 12:38:13.129 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 12:38:13.502 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 12:38:14.186 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 12:38:14.189 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 12:38:14.190 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 12:38:14.731 +03:30 [INF] Server desktop-cq9frio:740:74824eea successfully announced in 462.976 ms
+2024-02-28 12:38:14.741 +03:30 [INF] Server desktop-cq9frio:740:74824eea is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 12:38:14.973 +03:30 [INF] Server desktop-cq9frio:740:74824eea all the dispatchers started
+2024-02-28 12:43:14.775 +03:30 [INF] 1 servers were removed due to timeout
+2024-02-28 13:23:21.974 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 13:23:22.279 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 13:23:22.695 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 13:23:22.697 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 13:23:22.699 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 13:23:23.094 +03:30 [INF] Server desktop-cq9frio:5616:48a828a0 successfully announced in 364.4019 ms
+2024-02-28 13:23:23.143 +03:30 [INF] Server desktop-cq9frio:5616:48a828a0 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 13:23:23.173 +03:30 [INF] 1 servers were removed due to timeout
+2024-02-28 13:23:23.429 +03:30 [INF] Server desktop-cq9frio:5616:48a828a0 all the dispatchers started
+2024-02-28 14:59:27.283 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 14:59:27.589 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 14:59:28.052 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 14:59:28.059 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 14:59:28.060 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 14:59:28.451 +03:30 [INF] Server desktop-cq9frio:19328:2e0ab976 successfully announced in 344.8517 ms
+2024-02-28 14:59:28.474 +03:30 [INF] Server desktop-cq9frio:19328:2e0ab976 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 14:59:28.743 +03:30 [INF] Server desktop-cq9frio:19328:2e0ab976 all the dispatchers started
+2024-02-28 15:00:40.954 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 15:00:41.255 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 15:00:41.645 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 15:00:41.647 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 15:00:41.650 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 15:00:42.092 +03:30 [INF] Server desktop-cq9frio:7424:4685140f successfully announced in 390.9287 ms
+2024-02-28 15:00:42.104 +03:30 [INF] Server desktop-cq9frio:7424:4685140f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 15:00:42.383 +03:30 [INF] Server desktop-cq9frio:7424:4685140f all the dispatchers started
+2024-02-28 15:01:53.883 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 15:01:53.888 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 15:05:42.149 +03:30 [INF] 2 servers were removed due to timeout
+2024-02-28 16:07:14.498 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 16:07:14.503 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 19:56:56.745 +03:30 [INF] Start installing Hangfire SQL objects...
+2024-02-28 19:56:57.427 +03:30 [INF] Hangfire SQL objects installed.
+2024-02-28 19:56:58.963 +03:30 [INF] Starting Hangfire Server using job storage: 'SQL Server: DESKTOP-CQ9FRIO\SQLEXPRESS@hangfire'
+2024-02-28 19:56:59.197 +03:30 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-28 19:56:59.208 +03:30 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-28 19:57:01.849 +03:30 [INF] Server desktop-cq9frio:11252:5d557499 successfully announced in 2239.3555 ms
+2024-02-28 19:57:01.890 +03:30 [INF] Server desktop-cq9frio:11252:5d557499 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-28 19:57:01.955 +03:30 [INF] 1 servers were removed due to timeout
+2024-02-28 19:57:02.384 +03:30 [INF] Server desktop-cq9frio:11252:5d557499 all the dispatchers started
+2024-02-28 19:59:42.760 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 19:59:42.765 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 19:59:55.316 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-02-28 19:59:55.319 +03:30 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
