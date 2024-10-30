@@ -19,7 +19,7 @@ namespace OrderService.API.Filters
             var errors=new List<string>();
             if (context.Exception is ValidationException exception) { 
               errors= exception?.Errors?.Select(x=>x.ErrorMessage).ToList();
-                //context.Result = new BadRequestObjectResult(errors);
+                ////context.Result = new BadRequestObjectResult(errors);
 
             }
            else if(context.Exception is ClientErrorMessage clientErrorMessage) {
